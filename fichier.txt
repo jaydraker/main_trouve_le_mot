@@ -1,1 +1,2 @@
-"ceci est le contenu du fichier pour tester la commande git stash"
+ceci est le contenu du fichier pour tester la commande git stash
+premiere modif
