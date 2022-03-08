@@ -1,2 +1,3 @@
 ceci est le contenu du fichier pour tester la commande git stash
 premiere modif
+Modification apporté etant dans feature
