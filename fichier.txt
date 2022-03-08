@@ -1,3 +1,6 @@
 ceci est le contenu du fichier pour tester la commande git stash
 premiere modif
 Modification apporté etant dans feature
+https://delicious-insights.com/fr/articles/git-stash/
+https://delicious-insights.com/fr/articles/git-stash/
+j'ai modifier ce fichier etant dans develop
